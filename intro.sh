@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 my_name="Tien Do"
 echo "$my_name"
